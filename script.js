@@ -28,8 +28,7 @@ async function fetchToken() {
 }
 
 async function getPlaylist() {
-    //let playlistId = "3cEYpjA9oz9GiPac4AsH4n";
-    let playlistId ="7iMWeh1LTjZ6cO7iTa5ach"
+    let playlistId ="7iMWeh1LTjZ6cO7iTa5ach" 
     console.log("hello playlist")
     let accessToken = await fetchToken(); // ✅ Await the returned token
 
