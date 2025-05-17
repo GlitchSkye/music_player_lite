@@ -1,0 +1,32 @@
+html, body {
+    background-color: pink !important;
+}
+
+#greeting{
+    font-size: medium;
+    color: blueviolet;
+}
+
+#userName{
+    font-size: medium;
+    color: blueviolet;
+}
+
+.progress{
+    margin-left: 10px;
+    margin-right: 10px;
+    margin-top: -5px;
+    margin-bottom: 5px;
+    background-color: rgb(245, 225, 241) !important;
+}
+
+.btn-group{
+    margin-left: 17%;
+    margin-right: 17%;
+}
+.btn {
+    border-radius: 100% !important;
+    margin-left: 2% !important;
+    color: pink;
+    background-color: blueviolet !important;
+}
